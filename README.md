@@ -1,6 +1,4 @@
 
-![Boas-vindas](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 # Olá, eu sou o Franceildo! 👋
 
 Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, especialmente Python e desenvolvimento de software.  
