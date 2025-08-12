@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, eu sou o Franceildo! 👋
 
-<!--
-**FranceildoS/FranceildoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas apaixonado por tecnologia, especialmente Python e desenvolvimento de software.  
+Gosto de criar projetos que resolvam problemas reais e de aprender sempre algo novo!
 
-Here are some ideas to get you started:
+## 🚀 Habilidades e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍  
+- Java  
+- Git e GitHub  
+- Desenvolvimento Web (HTML, CSS, JavaScript)  
+- Banco de Dados
+
+## 📚 Projetos em destaque
+
+- [Sistema Bancário Python](https://github.com/FranceildoS/sistema-bancario-python) – projeto simples simulando operações bancárias  
+- (adicione outros projetos que quiser aqui)
+
+## 📫 Como me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/franceildosantos)  
+- Email: seuemail@exemplo.com  
+
+---
+
+Obrigado pela visita! Vamos construir algo incrível juntos! 🚀
