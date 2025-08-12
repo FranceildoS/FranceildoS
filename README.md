@@ -18,8 +18,8 @@ Gosto de criar projetos que resolvam problemas reais e de aprender sempre algo n
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/franceildosantos)  
-- Email: seuemail@exemplo.com  
+- [LinkedIn](https://www.linkedin.com/in/ceildosantos)  
+- Email: ceildosantos@hotmail.com  
 
 ---
 
